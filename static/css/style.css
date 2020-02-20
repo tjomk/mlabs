@@ -1,0 +1,12 @@
+code {
+  max-width: 100%;
+  overflow: auto;
+  display: initial;
+}
+
+pre,
+pre code {
+  max-width: 100%;
+  overflow: auto;
+  display: block;
+}

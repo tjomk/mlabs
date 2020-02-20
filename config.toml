@@ -1,0 +1,54 @@
+baseURL = "https://tjomk.github.io/"
+languageCode = "en-us"
+title = "We launch on Friday"
+theme = "hugo-lithium-theme"
+disableKinds = ["taxonomy", "taxonomyTerm", "section", "404"]
+
+[permalinks]
+    blog = "/blog/:year/:month/:title"
+    page = "/:title/"
+
+[menu]
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 1
+
+  [[menu.main]]
+    name = "GitHub"
+    url = "https://github.com/tjomk"
+    weight = 2
+
+  [[menu.main]]
+    name = "Twitter"
+    url = "https://twitter.com/tjomk"
+    weight = 3
+
+[params]
+    mainSections = ["blog"]
+
+    description = ""
+
+    # path to the favicon, under "static"
+    favicon = "favicon.ico"
+
+    [params.logo]
+    url = "logo.png"
+    width = 50
+    height = 50
+    alt = "Logo"
+
+    [params.icon]
+    url = "favicon.ico"
+
+[markup]
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    style = "github"
+    tabWidth = 4
