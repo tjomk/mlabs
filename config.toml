@@ -10,33 +10,31 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section", "404"]
 
 [menu]
   [[menu.main]]
-    name = "About"
-    url = "/about/"
+    name = "Home"
+    url = "/"
     weight = 1
 
   [[menu.main]]
-    name = "GitHub"
-    url = "https://github.com/tjomk"
+    name = "Projects"
+    url = "/projects/"
     weight = 2
 
   [[menu.main]]
-    name = "Twitter"
-    url = "https://twitter.com/tjomk"
+    name = "Reading"
+    url = "/reading/"
     weight = 3
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 4
 
 [params]
     mainSections = ["blog"]
 
     description = ""
 
-    # path to the favicon, under "static"
     favicon = "favicon.ico"
-
-    [params.logo]
-    url = "logo.png"
-    width = 50
-    height = 50
-    alt = "Logo"
 
     [params.icon]
     url = "favicon.ico"
