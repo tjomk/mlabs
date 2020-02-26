@@ -11,7 +11,7 @@ Being a cold loving person I recently saw a temperature map of Europe showing th
 
 In my memory this is the first winter ever without any snow. Not only that, but we've got flowers blooming in February! Whenever I take my child to the kindergarten we count how many different types of flowers we spot. The last time it's been [galanthuses](https://en.wikipedia.org/wiki/Galanthus), [coltsfoots](https://en.wikipedia.org/wiki/Tussilago), and [leucojums](https://en.wikipedia.org/wiki/Leucojum). It's a fun 15 minute walk but I would rather prefer to pull my child on the sledge rather than explore the spring flora. And so I decided to get some snow and head over to the north of Finland.
 
-I drove ~900 km north of Helsinki to Ruka. It was well worth it. Even though the temperature is rather high (fluctuating between -1C and +1C), there's still enough snow fo skiing and hiking. I also finally saw those famous Lapland trees that get bent under the heavy snow.
+I drove ~900 km north of Helsinki to Ruka. It was well worth it. Even though the temperature is rather high (fluctuating between -1C and +1C), there's still enough snow for skiing and hiking. I also finally saw those famous Lapland trees that get bent under the heavy snow.
 
 ![Lapland snowy trees](/images/lapland-snowy-trees.jpg)
 

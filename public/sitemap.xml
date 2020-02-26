@@ -3,15 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://rtjom.com/blog/2020/02/summary-february-2020/</loc>
+    <lastmod>2020-02-21T10:51:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://rtjom.com/</loc>
+    <lastmod>2020-02-21T10:51:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://rtjom.com/projects/</loc>
+    <lastmod>2020-02-20T16:43:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rtjom.com/about/</loc>
+    <lastmod>2020-02-19T15:44:01+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rtjom.com/blog/2018/10/startup-perks-and-benefits/</loc>
+    <lastmod>2018-10-23T10:39:12+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rtjom.com/blog/2016/10/using-wtforms-with-selectfield-and-fieldlist/</loc>
+    <lastmod>2016-10-29T15:30:45+02:00</lastmod>
   </url>
   
 </urlset>
