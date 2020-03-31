@@ -66,19 +66,21 @@ crisis our diet got more diverse.
 
 ### Personal projects
 
-Before the virus hit my usual routing was to get back from the office, spend the evening with the family, doing sports,
+Before the virus hit my usual routine was to get back from the office, spend the evening with the family, do sports,
 or some other activity. And when the kid goes to sleep, I spend 1-2 hours working on personal projects. In the past few
 months my attention was on the Elm course. Unfortunately as a result of going flexible I didn't have much, if
-any, time to work on this. In the evening I am both mentally drowned. As a result I'm focusing on other things.
+any, time to work on this. In the evening I am both mentally and physically drowned. As a result I'm focusing on other
+things.
 
 I still do the [Elm Bits](https://elmbits.com/) newsletter and it's going good. Few days ago I took the courage to
-mention it on the official Elm Slack and received so much positive feedback from the community that it blew my mind.
+mention it on the official Elm Slack, and received so much positive feedback from the community that it blew my mind.
 Words of encouregament, praise, and comments on how to improve it even more.
 
 As I walk in the forest with my child I see a lot of fallen trees. This winter we didn't have snow and instead got a lot
 of storms. Our governmental body that is responsible for keeping forests healthy is doing amazing job at cutting the
-old and unhealthy trees and planting new ones. I wanted to build something out of a tree log for a while, and so went
-and cut one dead tree with a hand saw and took it home. My plan for April is to make a small chair. Let's see how it goes.
+old and unhealthy trees and planting new ones, but I thought I'd help a bit. I wanted to build something out of a tree
+log for a while, and so went and cut one dead tree with a hand saw and took it home. My plan for April is to make a
+small chair. Let's see how it goes.
 
 
 1. <a target="_blank" href="https://en.wikipedia.org/wiki/2012%E2%80%9313_Cypriot_financial_crisis" name="1">https://en.wikipedia.org/wiki/2012–13_Cypriot_financial_crisis</a>
