@@ -1,5 +1,5 @@
 ---
-title: "Why you shouldn't become an angel investor."
+title: "Why you shouldn't become an angel investor"
 date: 2020-05-26T09:40:31+03:00
 draft: false
 ---

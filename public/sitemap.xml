@@ -1,14 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://rtjom.com/blog/2020/05/summary-april-2020/</loc>
-    <lastmod>2020-05-04T09:07:15+03:00</lastmod>
+    <loc>https://rtjom.com/</loc>
+    <lastmod>2020-05-26T09:40:31+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rtjom.com/</loc>
+    <loc>https://rtjom.com/blog/2020/05/why-you-shouldnt-become-an-angel-investor/</loc>
+    <lastmod>2020-05-26T09:40:31+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rtjom.com/blog/2020/05/summary-april-2020/</loc>
     <lastmod>2020-05-04T09:07:15+03:00</lastmod>
   </url>
   
