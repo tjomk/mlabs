@@ -6,4 +6,4 @@ draft: true
 We start with the basic components in Simulink:
 
 1. Battery: Powertrain Blockset -> Energy Storage and Auxilary Drive -> Datasheet Battery (https://www.mathworks.com/help/autoblks/ref/datasheetbattery.html)
-2. Hall effect sensors - to measure the motor RPM so we can control the speed and use it in PID
+2. Hall effect sensors - to measure the motor RPM so we can control the speed and use it in PID (https://www.mouser.ee/ProductDetail/Honeywell/SS460S?qs=%2FWLvyfaa854zNgpQkub%2FcQ%3D%3D)
