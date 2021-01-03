@@ -1,7 +1,7 @@
 ---
 title: "Summary December 2020"
 date: 2020-12-19T08:11:51+02:00
-draft: true
+draft: false
 ---
 It looks like December has been the most fruitful and event-rich month of the year.
 
