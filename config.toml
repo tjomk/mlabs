@@ -50,3 +50,5 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section", "404"]
     noClasses = true
     style = "github"
     tabWidth = 4
+  [markup.goldmark.renderer]
+    unsafe = true

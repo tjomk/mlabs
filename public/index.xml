@@ -6,10 +6,30 @@
     <description>Recent content on We launch on Friday</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Jan 2021 20:24:51 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 17 Feb 2021 07:58:44 +0200</lastBuildDate>
     
 	<atom:link href="https://rtjom.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Summary January 2021</title>
+      <link>https://rtjom.com/blog/2021/02/summary-january-2021/</link>
+      <pubDate>Wed, 17 Feb 2021 07:58:44 +0200</pubDate>
+      
+      <guid>https://rtjom.com/blog/2021/02/summary-january-2021/</guid>
+      <description>The moment I stop taking notes and leave writing this blog post for a week or two, all my memories of the past month events vanish. Partly this is because nothing big happens, and the life is pretty much the same. With a young kid every day is almost a groundhog day. Luckily, I can point out few events that made this month stand out a bit&amp;hellip;
+About 5 years ago I moved back to Tallinn from London and decided to start a honey business.</description>
+    </item>
+    
+    <item>
+      <title>Two Launches on Producthunt</title>
+      <link>https://rtjom.com/blog/2021/01/two-launches-on-producthunt/</link>
+      <pubDate>Tue, 19 Jan 2021 12:31:31 +0200</pubDate>
+      
+      <guid>https://rtjom.com/blog/2021/01/two-launches-on-producthunt/</guid>
+      <description>Last week I launched shipit (a tool for product managers to help plan and manage their product) on Product Hunt for the second time. I hesitated whether I should do it or not, but the results were very unexpected.
+I spent nearly two weeks preparing the first round, reading about the timing, the importance of famous hunters, your first comment, and the support of community. I failed to find someone to hunt us, so did it myself.</description>
+    </item>
     
     <item>
       <title>On Algorithms and Manipulation</title>
@@ -152,7 +172,7 @@ In the past two weeks we&amp;rsquo;ve all been adapting to the new reality: tryi
       
       <guid>https://rtjom.com/blog/2020/02/summary-february-2020/</guid>
       <description>Being a cold loving person I recently saw a temperature map of Europe showing that throughout the whole continent it&amp;rsquo;s above zero. To say that I was shocked is understatement.
-In my memory this is the first winter ever without any snow. Not only that, but we&amp;rsquo;ve got flowers blooming in February! Whenever I take my child to the kindergarten we count how many different types of flowers we spot. The last time it&amp;rsquo;s been galanthuses, coltsfoots, and leucojums.</description>
+![temperature map of Europe](/images/temperature-map-europe.gif) In my memory this is the first winter ever without any snow. Not only that, but we&amp;rsquo;ve got flowers blooming in February! Whenever I take my child to the kindergarten we count how many different types of flowers we spot.</description>
     </item>
     
     <item>
