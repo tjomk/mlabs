@@ -14,3 +14,4 @@ draft: false
 
 - "[Meditations: a new translation](https://www.penguinrandomhouse.com/books/6367/meditations-by-marcus-aurelius/)", translated by Gregory Hays
 - "[Ami: child of the stars](https://www.goodreads.com/book/show/311696.Ami_el_ni_o_de_las_estrellas)"
+- "[The Lessons of History](https://en.wikipedia.org/wiki/The_Lessons_of_History)"
