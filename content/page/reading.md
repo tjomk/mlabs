@@ -4,6 +4,18 @@ date: 2020-02-23T20:02:21+02:00
 draft: false
 ---
 
+### Reading queue
+
+- "[Living My Life](https://en.wikipedia.org/wiki/Living_My_Life) by Emma Goldman
+- "[John Toland's 'Letters to Serena'](https://archive.org/details/letterstoserena00tolagoog)
+- "[Days of War, Nights of Love](https://crimethinc.com/books/days-of-war-nights-of-love) Crimethink for Beginners
+- "[Momo](https://en.wikipedia.org/wiki/Momo_(novel))" by Michael Ende
+- "[Letters to a Young Poet](https://en.wikipedia.org/wiki/Letters_to_a_Young_Poet)" by Rainer Maria Rilke
+- "[Six easy pieces](https://en.wikipedia.org/wiki/The_Feynman_Lectures_on_Physics#Six_Easy_Pieces_\(1994\))" by Richard Feinman
+- "[Think Explainer](https://en.wikipedia.org/wiki/Thing_Explainer)" by Randall Munroe
+- "[Thinking Physics](https://www.goodreads.com/book/show/268266.Thinking_Physics)" - by Lewis Carroll Epstein
+- "[The story of Phylosophy](https://en.wikipedia.org/wiki/The_Story_of_Philosophy)" - by Will Durant
+
 ### Currently reading
 
 - "[Genome: The Autobiography Of A Species In 23 Chapters](https://www.amazon.com/Genome-Autobiography-Species-23-Chapters/dp/0060894083)" by Matt Ridley
