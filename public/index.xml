@@ -6,10 +6,20 @@
     <description>Recent content on We launch on Friday</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Feb 2021 07:58:44 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 18 Feb 2021 21:01:51 +0200</lastBuildDate>
     
 	<atom:link href="https://rtjom.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Crossing the Rubicon</title>
+      <link>https://rtjom.com/blog/2021/02/crossing-the-rubicon/</link>
+      <pubDate>Thu, 18 Feb 2021 21:01:51 +0200</pubDate>
+      
+      <guid>https://rtjom.com/blog/2021/02/crossing-the-rubicon/</guid>
+      <description>Every now and then I keep hearing the phrase &amp;ldquo;crossing the Rubicon&amp;rdquo;, yet I have never actually thought about its origins and meaning. In &amp;ldquo;Meditations: a new translation&amp;rdquo; Gregory Hays mentioned that event and explains it. Here is an exerpt from Wikipedia:
+ Julius Caesar&amp;rsquo;s crossing the Rubicon river in January 49 BC precipitated the Roman Civil War, which ultimately led to Caesar becoming dictator and the rise of the imperial era of Rome.</description>
+    </item>
     
     <item>
       <title>Summary January 2021</title>
@@ -162,7 +172,7 @@ In the past two weeks we&amp;rsquo;ve all been adapting to the new reality: tryi
       <pubDate>Sun, 23 Feb 2020 20:02:21 +0200</pubDate>
       
       <guid>https://rtjom.com/reading/</guid>
-      <description>Reading queue  &amp;ldquo;Living My Life by Emma Goldman &amp;ldquo;John Toland&amp;rsquo;s &amp;lsquo;Letters to Serena&amp;rsquo; &amp;ldquo;Days of War, Nights of Love Crimethink for Beginners &amp;ldquo;Momo&amp;rdquo; by Michael Ende &amp;ldquo;Letters to a Young Poet&amp;rdquo; by Rainer Maria Rilke &amp;ldquo;Six easy pieces&amp;rdquo; by Richard Feinman &amp;ldquo;Think Explainer&amp;rdquo; by Randall Munroe &amp;ldquo;Thinking Physics&amp;rdquo; - by Lewis Carroll Epstein &amp;ldquo;The story of Phylosophy&amp;rdquo; - by Will Durant  Currently reading  &amp;ldquo;Genome: The Autobiography Of A Species In 23 Chapters&amp;rdquo; by Matt Ridley &amp;ldquo;Catch 22&amp;rdquo; by Joseph Heller &amp;ldquo;Divine comedy&amp;rdquo; by Dante Alighieri  Read  &amp;ldquo;Meditations: a new translation&amp;quot;, translated by Gregory Hays &amp;ldquo;Ami: child of the stars&amp;rdquo; &amp;ldquo;The Lessons of History&amp;rdquo;  </description>
+      <description>Reading queue  &amp;ldquo;Living My Life&amp;rdquo; by Emma Goldman John Toland&amp;rsquo;s &amp;ldquo;Letters to Serena&amp;rdquo; &amp;ldquo;Days of War, Nights of Love&amp;rdquo; Crimethink for Beginners &amp;ldquo;Momo&amp;rdquo; by Michael Ende &amp;ldquo;Letters to a Young Poet&amp;rdquo; by Rainer Maria Rilke &amp;ldquo;Six easy pieces&amp;rdquo; by Richard Feinman &amp;ldquo;Thing Explainer&amp;rdquo; by Randall Munroe &amp;ldquo;Thinking Physics&amp;rdquo; - by Lewis Carroll Epstein &amp;ldquo;The story of Phylosophy&amp;rdquo; - by Will Durant  Currently reading  &amp;ldquo;Genome: The Autobiography Of A Species In 23 Chapters&amp;rdquo; by Matt Ridley &amp;ldquo;Catch 22&amp;rdquo; by Joseph Heller &amp;ldquo;Divine comedy&amp;rdquo; by Dante Alighieri  Read  &amp;ldquo;Meditations: a new translation&amp;quot;, translated by Gregory Hays &amp;ldquo;Ami: child of the stars&amp;rdquo; &amp;ldquo;The Lessons of History&amp;rdquo;  </description>
     </item>
     
     <item>
@@ -182,7 +192,7 @@ In the past two weeks we&amp;rsquo;ve all been adapting to the new reality: tryi
       
       <guid>https://rtjom.com/projects/</guid>
       <description>Shipit shipit is a startup that I co-founded with Till. Its goal is to help product managers plan their roadmaps and manage the whole product lifecycle, from receiving customer feedback to prioritization and presentation.
-Elm Bits A newsletter about everything related to Elm programming language. After finding out about this tech I got really excited about functional programming and wanted to learn more about the language. Every week I shared the news, articles, and other bits with subscribers.</description>
+Elm Bits (on pause) A newsletter about everything related to Elm programming language. After finding out about this tech I got really excited about functional programming and wanted to learn more about the language. Every week I shared the news, articles, and other bits with subscribers.</description>
     </item>
     
     <item>
