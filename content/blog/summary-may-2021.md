@@ -1,7 +1,8 @@
 ---
 title: "Summary May 2021"
 date: 2021-05-16T10:11:35+03:00
-draft: true
+draft: false
+tags: [summary, mtb, travel]
 ---
 ### Birthday celebration
 
@@ -55,7 +56,7 @@ in the old town, seeing the Bosphorus, and imagining what it was like in the Ott
 ### Bike progress
 
 - wheelie
-- bunny hops
+- custom 3d-printed part
 
 ### RC car progress
 
@@ -64,3 +65,29 @@ in the old town, seeing the Bosphorus, and imagining what it was like in the Ott
 ### Singing
 
 progress
+
+### Mathematics
+
+About 3 or 4 years ago I started thinking about getting back to studies. Not just an online course but rather taking
+time off the work and going to university. The reasons these thoughts came to be is because the job I was (and still am)
+doing is not that brain-intensive. There is quite a lot to the joke that modern web development is just copy-pasting
+code snippets from Stack Overflow. Learning new code patterns and applying them, or fixing a CSS so that your UI can
+work in every browser doesn't involve much thinking, it's just reading blogs, computer science books and articles, or
+Googling a solution to a known problem. This made me crave for some brain-intensive tasks and lead me to a journey trying
+to figure out what I want to learn.
+
+Math and physics were the obvious choices. Not because chemistry, astronomy, or other parts of the science are less
+intensive, but for those subjects I would need to start from the very beginning and brush up all my high-school knowledge.
+Having friends who studied both physics and maths as their major in universities, I talked to all of them to find out
+what would interest me more, and in the end I ended up settling for maths.
+
+Mathematics is the foundation of everything. This is the language that one can use to describe almost anything in the
+real world. Building your physics knowledge of top of that would be much easier. And even though Faraday could make
+amazing discoveries without the use of maths, I'm not him.
+
+I started looking for various ways to get a proper degree in maths. Researched local universities in Estonia, checked
+some [online](https://news.ycombinator.com/item?id=22853921) opportunities. In the end life (with two kids and a startup)
+came in the way, and so I paused the research. My itching for intense brain activity hasn't disappeared. And
+even though I do not have the luxury of taking a sabbatical and going to university, I decided that I should do my best
+and complete several online courses to at least refresh my knowledge. And so I signed up for the [Calculus](https://www.edx.org/xseries/mitx-18.01x-single-variable-calculus)
+course on edX which starts in June.

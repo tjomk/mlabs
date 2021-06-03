@@ -1,135 +1,89 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
+    <loc>https://rtjom.com/blog/2021/04/summary-april-2021/</loc>
+    <lastmod>2021-04-06T14:22:08+03:00</lastmod>
+  </url><url>
+    <loc>https://rtjom.com/</loc>
+    <lastmod>2021-04-06T14:22:08+03:00</lastmod>
+  </url><url>
     <loc>https://rtjom.com/blog/2021/03/telegram-is-the-new-rss-reader/</loc>
     <lastmod>2021-03-11T10:10:30+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rtjom.com/</loc>
-    <lastmod>2021-03-11T10:10:30+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rtjom.com/blog/2021/03/long-project-tracking/</loc>
     <lastmod>2021-03-08T10:17:58+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://rtjom.com/blog/2021/03/summary-march-2021/</loc>
+    <lastmod>2021-03-08T10:14:11+02:00</lastmod>
+  </url><url>
     <loc>https://rtjom.com/blog/2021/03/summary-february-2021/</loc>
     <lastmod>2021-03-08T08:11:07+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rtjom.com/blog/2021/02/crossing-the-rubicon/</loc>
     <lastmod>2021-02-18T21:01:51+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rtjom.com/blog/2021/02/summary-january-2021/</loc>
     <lastmod>2021-02-17T07:58:44+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rtjom.com/blog/2021/01/two-launches-on-producthunt/</loc>
     <lastmod>2021-01-19T12:31:31+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rtjom.com/blog/2021/01/on-algorithms-and-manipulation/</loc>
     <lastmod>2021-01-10T20:24:51+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rtjom.com/blog/2020/12/summary-december-2020/</loc>
     <lastmod>2020-12-19T08:11:51+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rtjom.com/blog/2020/12/summary-november-2020/</loc>
     <lastmod>2020-12-19T08:10:48+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rtjom.com/blog/2020/10/summary-october-2020/</loc>
     <lastmod>2020-10-22T14:43:06+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rtjom.com/blog/2020/10/summary-september-2020/</loc>
     <lastmod>2020-10-22T14:31:43+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rtjom.com/blog/2020/09/summary-august-2020/</loc>
     <lastmod>2020-09-13T14:56:46+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rtjom.com/blog/2020/08/summary-july-2020/</loc>
     <lastmod>2020-08-10T22:56:41+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rtjom.com/blog/2020/06/summary-june-2020/</loc>
     <lastmod>2020-06-05T09:34:09+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rtjom.com/blog/2020/06/summary-may-2020/</loc>
     <lastmod>2020-06-05T08:54:22+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rtjom.com/blog/2020/05/why-you-shouldnt-become-an-angel-investor/</loc>
     <lastmod>2020-05-26T09:40:31+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rtjom.com/blog/2020/05/summary-april-2020/</loc>
     <lastmod>2020-05-04T09:07:15+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rtjom.com/blog/2020/03/summary-march-2020/</loc>
     <lastmod>2020-03-24T16:12:23+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rtjom.com/blog/2020/03/a-walk-around-pelgulinn/</loc>
     <lastmod>2020-03-15T22:34:22+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rtjom.com/reading/</loc>
     <lastmod>2020-02-23T20:02:21+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rtjom.com/blog/2020/02/summary-february-2020/</loc>
     <lastmod>2020-02-21T10:51:20+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rtjom.com/projects/</loc>
     <lastmod>2020-02-20T16:43:35+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rtjom.com/about/</loc>
     <lastmod>2020-02-19T15:44:01+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rtjom.com/blog/2018/10/startup-perks-and-benefits/</loc>
     <lastmod>2018-10-23T10:39:12+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rtjom.com/blog/2016/10/using-wtforms-with-selectfield-and-fieldlist/</loc>
     <lastmod>2016-10-29T15:30:45+02:00</lastmod>
   </url>
-  
 </urlset>
