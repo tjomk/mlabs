@@ -1,6 +1,6 @@
 ---
 title: "Summary May 2021"
-date: 2021-05-16T10:11:35+03:00
+date: 2021-05-31T10:11:35+03:00
 draft: false
 tags: [summary, mtb, travel]
 ---
@@ -55,16 +55,51 @@ in the old town, seeing the Bosphorus, and imagining what it was like in the Ott
 
 ### Bike progress
 
-- wheelie
-- custom 3d-printed part
+There hasn't been much progress in that front because I wasn't riding regularly. However by the end of the month I
+decided to take this hobby more seriously and think of it as a paid training session, like if I were to go to the gym,
+yoga, or swimming class. And this actually made things better because I can plan my sessions 1-2 times a week with regular
+intervals. June will show if this sticks though.
+
+I made some good progress on wheelie and from the initial lift-off and fall now manage to ride anywhere between 2-15
+meters. It is easier to ride longer when I'm going fast, but I want to go slow, almost at a snail pace. So practice
+continues.
+
+Been also trying to do rear wheel hops like they do on a trials bike. So far I cannot really hold the balance and can
+jump only forward (contrary to what trial riders do by jumping on the same spot).
+
+#### 3D-printing meets MTB
+
+The other day I saw a "hack" on how to enable free coaster without buying any new parts. Free coaster enables you to
+ride backwards without your pedals rotating. It's not extremely useful, but it's a cool trick that I wanted to learn
+ages ago. Turns out that all you need is to swap one of the freewhels in the cassette with a blank spacer. The chain
+will slide on it while going backwards and the pedals won't rotate.
+
+I found a 3D model for my cassette, modified the spacer a bit, and printed with a hard enough material. Now all I need
+to do is get used to driving backwards.
+
+<div class="my-slider">
+  <div><img src="/images/mtb/cassette-spacer.jpg" alt="3D-printed cassette spacer" /></div>
+  <div><img src="/images/mtb/cassette-1.jpg" alt="MTB cassette" /></div>
+  <div><img src="/images/mtb/cassette-2.jpg" alt="MTB cassette" /></div>
+</div>
 
 ### RC car progress
 
-- ESC
+Not much progress here, although I did manage to connect new ESCs with reverse gear and figure out how these work.
+I also created new 3D models for the chassis to accomodate motors but haven't been able to print them yet.
 
 ### Singing
 
-progress
+I started taking singing classes. It was a long-time wish to learn to sign without being embarrased myself. I am not
+planning to sing karaoke or go to Eurovision, but I do want to listen to myself and not think how awful that is.
+
+There are also several things I want to achieve with singing:
+
+- improve my voice, ie. controlling both the voice and the breathing
+- improve my public speaking
+- try something new to let my monkey brain pause for a bit
+
+It's been 4 lessons so far, and I enjoy this a lot.
 
 ### Mathematics
 
@@ -91,3 +126,15 @@ came in the way, and so I paused the research. My itching for intense brain acti
 even though I do not have the luxury of taking a sabbatical and going to university, I decided that I should do my best
 and complete several online courses to at least refresh my knowledge. And so I signed up for the [Calculus](https://www.edx.org/xseries/mitx-18.01x-single-variable-calculus)
 course on edX which starts in June.
+
+<script type="text/javascript" src="/js/tiny-slider-2.9.2.min.js"></script>
+<script type="application/javascript">
+var slider = tns({
+    container: '.my-slider',
+    autoplay: false,
+    navPosition: 'bottom',
+    controlsPosition: 'bottom',
+    controlsText: ['&#10094;', '&#10095;'],
+    center: true,
+  });
+</script>
