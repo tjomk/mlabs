@@ -1,15 +1,15 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
-author: Jack London
+title: "Masters of Disaster: The Ten Commandments of Damage Control"
+date: 2021-06-18T20:41:14+03:00
+author: Christopher Lehane
 fiction: false
-genres: [productivity]
+genres: [business, politics]
 rating: 5
 link: https://en.wikipedia.org
-cover: /images/books/cover.jpg
+cover: /images/books/masters-of-disaster.jpg
 status: queued
-gist: One-sentence review
-draft: true
+gist:
+draft: false
 ---
 
 ## The book in 3 sentences

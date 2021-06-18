@@ -1,15 +1,15 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
-author: Jack London
+title: "Thing Explainer"
+date: 2021-06-18T20:49:15+03:00
+author: Randall Munroe
 fiction: false
-genres: [productivity]
+genres: [science, fun]
 rating: 5
 link: https://en.wikipedia.org
-cover: /images/books/cover.jpg
+cover: /images/books/thing-explainer.jpg
 status: queued
-gist: One-sentence review
-draft: true
+gist:
+draft: false
 ---
 
 ## The book in 3 sentences

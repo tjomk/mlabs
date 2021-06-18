@@ -1,0 +1,15 @@
+<article class="book-card">
+  <div class="cover">
+    <a href="{{ .Permalink }}">
+      <img src="{{ .Params.cover }}" />
+    </a>
+  </div>
+  <div class="description">
+    {{ if ne .Params.status "queued" }}
+    <a class="title" href="{{ .Permalink }}">{{ .Title }}</a>
+    {{ else }}
+    <span class="title">{{ .Title }}</span>
+    {{ end }}
+    <span>{{ .Params.gist }}</span>
+  </div>
+</article>

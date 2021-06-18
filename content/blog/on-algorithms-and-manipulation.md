@@ -2,6 +2,7 @@
 title: "On Algorithms and Manipulation"
 date: 2021-01-10T20:24:51+02:00
 draft: false
+tags: [algorithms, manipulation, essay]
 ---
 Few years ago there was a [mass-shooting](https://en.wikipedia.org/wiki/2015_San_Bernardino_attack) in San Bernardino.
 FBI seized the phone of one of the shooters and asked Apple to decrypt it. Apple refused citing the protection of its

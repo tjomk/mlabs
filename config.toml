@@ -2,11 +2,14 @@ baseURL = "https://rtjom.com/"
 languageCode = "en-us"
 title = "We launch on Friday"
 theme = "hugo-lithium-theme"
-disableKinds = ["taxonomy", "taxonomyTerm", "section", "404"]
+
+[taxonomies]
+    tag = "tags"
 
 [permalinks]
     blog = "/blog/:year/:month/:title"
     page = "/:title/"
+    book = "/book/:title"
 
 [menu]
   [[menu.main]]

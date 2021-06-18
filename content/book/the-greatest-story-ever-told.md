@@ -5,8 +5,11 @@ author: Lawrence M. Krauss
 fiction: false
 genres: [science]
 rating: 5
-url: https://en.wikipedia.org/wiki/The_Greatest_Story_Ever_Told%E2%80%94So_Far
-draft: true
+link: https://en.wikipedia.org/wiki/The_Greatest_Story_Ever_Told%E2%80%94So_Far
+cover: /images/books/the-greatest-story-ever-told-so-far.jpg
+status: reading
+gist:
+draft: false
 ---
 
 ## The book in 3 sentences
@@ -17,7 +20,11 @@ draft: true
 
 ## Impressions
 
-Was it good? Was it bad? What did I feel? What I liked
+TODO: Was it good? Was it bad? What did I feel? What I liked
+
+### How I discovered it?
+
+It was a recommendation from the e-bookstore while I was purchasing books by David Deutsch
 
 ## How it changed me
 

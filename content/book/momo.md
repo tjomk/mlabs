@@ -1,15 +1,15 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
-author: Jack London
-fiction: false
-genres: [productivity]
+title: "Momo"
+date: 2021-06-18T21:11:45+03:00
+author: Michael Ende
+fiction: true
+genres: [fantasy]
 rating: 5
 link: https://en.wikipedia.org
-cover: /images/books/cover.jpg
+cover: /images/books/momo.jpg
 status: queued
-gist: One-sentence review
-draft: true
+gist: 
+draft: false
 ---
 
 ## The book in 3 sentences
@@ -24,7 +24,7 @@ Was it good? Was it bad? What did I feel? What I liked
 
 ### How I discovered it?
 
-Via reference from another book
+Like [Letters To a Young Poet](/book/letters-to-a-young-poet/), I discovered this book in a hacking manual.
 
 ## How it changed me
 

@@ -2,6 +2,7 @@
 title: "Long Project Tracking"
 date: 2021-03-08T10:17:58+02:00
 draft: false
+tags: [personal experience]
 ---
 It's been 6 months since I started it semi-actively. Between work, two kids, and all of the isolation I've managed to
 find maybe an hour of time every month to work on it. That doesn't bother me much as I didn't set any deadline

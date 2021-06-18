@@ -1,0 +1,53 @@
+{{ partial "header.html" . }}
+
+<main class="content" role="main">
+
+  <div class="books">
+    <h2>Currently reading</h2>
+    {{ range $index, $page := where (where .Site.RegularPages "Section" "book") "Params.status" "reading" }}
+      {{ $i := add $index 1 }}
+      {{ if modBool $index 2 }}
+      <div class="row">
+      {{ end }}
+        <div class="column">
+          {{ partial "books/card.html" . }}
+        </div>
+      {{ if modBool $i 2 }}
+      </div>
+      {{ end }}
+    {{ end }}
+
+    <h2>Finished</h2>
+    {{ range $index, $page := where (where .Site.RegularPages "Section" "book") "Params.status" "finished" }}
+      {{ $i := add $index 1 }}
+      {{ if modBool $index 2 }}
+      <div class="row">
+      {{ end }}
+        <div class="column">
+          {{ partial "books/card.html" . }}
+        </div>
+      {{ if modBool $i 2 }}
+      </div>
+      {{ end }}
+    {{ end }}
+
+    <h2>Queued</h2>
+    {{ range $index, $page := where (where .Site.RegularPages "Section" "book") "Params.status" "queued" }}
+      {{ $i := add $index 1 }}
+      {{ if modBool $index 2 }}
+      <div class="row">
+      {{ end }}
+        <div class="column">
+          {{ partial "books/card.html" . }}
+        </div>
+      {{ if modBool $i 2 }}
+      </div>
+      {{ end }}
+    {{ end }}
+
+
+  </div>
+
+</main>
+
+{{ partial "footer.html" . }}

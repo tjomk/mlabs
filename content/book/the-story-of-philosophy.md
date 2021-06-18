@@ -1,15 +1,15 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
-author: Jack London
+title: "The Story of Philosophy"
+date: 2021-06-18T20:46:02+03:00
+author: Will Durant
 fiction: false
-genres: [productivity]
+genres: [history]
 rating: 5
 link: https://en.wikipedia.org
-cover: /images/books/cover.jpg
+cover: /images/books/the-story-of-philosophy.jpg
 status: queued
-gist: One-sentence review
-draft: true
+gist:
+draft: false
 ---
 
 ## The book in 3 sentences

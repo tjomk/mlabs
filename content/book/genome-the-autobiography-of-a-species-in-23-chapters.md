@@ -1,15 +1,15 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
+title: "Genome the Autobiography of a Species in 23 Chapters"
+date: 2021-06-18T16:44:01+03:00
 author: Jack London
 fiction: false
 genres: [productivity]
 rating: 5
 link: https://en.wikipedia.org
-cover: /images/books/cover.jpg
-status: queued
-gist: One-sentence review
-draft: true
+cover: /images/books/genome-the-autobiography-of-a-species.jpg
+status: reading
+gist:
+draft: false
 ---
 
 ## The book in 3 sentences

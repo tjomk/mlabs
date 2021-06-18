@@ -2,6 +2,7 @@
 title: "Crossing the Rubicon"
 date: 2021-02-18T21:01:51+02:00
 draft: false
+tags: [quotes, thoughts]
 ---
 Every now and then I keep hearing the phrase "crossing the Rubicon", yet I have never actually thought about its
 origins and meaning. In "Meditations: a new translation" Gregory Hays mentioned that event and explains it. Here is

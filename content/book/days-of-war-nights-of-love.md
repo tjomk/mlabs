@@ -1,15 +1,15 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
-author: Jack London
+title: "Days of War Nights of Love"
+date: 2021-06-18T21:15:50+03:00
+author: CrimethInc.
 fiction: false
-genres: [productivity]
+genres: [anarchism]
 rating: 5
 link: https://en.wikipedia.org
-cover: /images/books/cover.jpg
+cover: /images/books/days-of-war-nights-of-love.jpg
 status: queued
-gist: One-sentence review
-draft: true
+gist: 
+draft: false
 ---
 
 ## The book in 3 sentences
@@ -24,7 +24,7 @@ Was it good? Was it bad? What did I feel? What I liked
 
 ### How I discovered it?
 
-Via reference from another book
+Like [Letters To a Young Poet](/book/letters-to-a-young-poet/), I discovered this book in a hacking manual.
 
 ## How it changed me
 

@@ -2,6 +2,7 @@
 title: "Startup Perks and Benefits"
 date: 2018-10-23T10:39:12+02:00
 draft: false
+tags: [startups, essay]
 ---
 
 I work for a startup called Juggle Jobs. We’re the goto place to people to find flexible work. We help early parents to find a challenging part-time work so they could spend the early months with their newborns and not feel a massive hole in their family budget. We help people find a job in multiple companies at the same time, something we call a portfolio career, where you spend several days a months at a company, for example, as their CFO.

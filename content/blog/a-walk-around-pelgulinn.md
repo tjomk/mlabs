@@ -1,7 +1,7 @@
 ---
 title: "A Walk Around Pelgulinn"
 date: 2020-03-15T22:34:22+02:00
-tags: [citywalks]
+tags: [city walks]
 draft: false
 ---
 Tallinn is divided into 8 districts which in turn are sub-divided into smaller parts. While everyone who lives in the city they were born think they know the place, tourists and expacts usually know way more. When I lived in London I loved to explore tiny villages that the city eventually consumed. When you arrive there the place still feels like a village. In a series of blog posts I want to explore my own city's sub districts and map them here.

@@ -1,15 +1,15 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
-author: Jack London
+title: "The Fabric of Reality"
+date: 2021-06-18T20:35:40+03:00
+author: David Deutsch
 fiction: false
-genres: [productivity]
+genres: [science]
 rating: 5
 link: https://en.wikipedia.org
-cover: /images/books/cover.jpg
+cover: /images/books/the-fabric-of-reality.jpg
 status: queued
-gist: One-sentence review
-draft: true
+gist: 
+draft: false
 ---
 
 ## The book in 3 sentences

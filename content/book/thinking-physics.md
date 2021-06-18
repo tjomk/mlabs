@@ -1,15 +1,15 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
-author: Jack London
+title: "Thinking Physics"
+date: 2021-06-18T20:47:14+03:00
+author: Lewis Carroll Epstein
 fiction: false
-genres: [productivity]
+genres: [science]
 rating: 5
 link: https://en.wikipedia.org
-cover: /images/books/cover.jpg
+cover: /images/books/thinking-physics.jpg
 status: queued
-gist: One-sentence review
-draft: true
+gist:
+draft: false
 ---
 
 ## The book in 3 sentences

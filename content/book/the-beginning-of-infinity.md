@@ -1,15 +1,15 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
-author: Jack London
+title: "The Beginning of Infinity"
+date: 2021-06-18T20:38:43+03:00
+author: David Deutsch
 fiction: false
-genres: [productivity]
+genres: [science]
 rating: 5
 link: https://en.wikipedia.org
-cover: /images/books/cover.jpg
+cover: /images/books/the-beginning-of-infinity.jpg
 status: queued
-gist: One-sentence review
-draft: true
+gist:
+draft: false
 ---
 
 ## The book in 3 sentences

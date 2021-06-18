@@ -1,15 +1,15 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
-author: Jack London
+title: "Letters to Serena"
+date: 2021-06-18T21:22:00+03:00
+author: John Toland
 fiction: false
-genres: [productivity]
+genres: [letters]
 rating: 5
 link: https://en.wikipedia.org
-cover: /images/books/cover.jpg
+cover: /images/books/letters-to-serena.jpg
 status: queued
-gist: One-sentence review
-draft: true
+gist: 
+draft: false
 ---
 
 ## The book in 3 sentences

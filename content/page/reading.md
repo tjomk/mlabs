@@ -17,6 +17,7 @@ draft: false
 - "[The story of Phylosophy](https://en.wikipedia.org/wiki/The_Story_of_Philosophy)" - by Will Durant
 - "[The Beginning of Infinity](https://en.wikipedia.org/wiki/The_Beginning_of_Infinity)" - by David Deutsch
 - "[The Fabric of Reality](https://en.wikipedia.org/wiki/The_Fabric_of_Reality)" - by David Deutsch
+- "[Masters of Disaster: The Ten Commandments of Damage Control](https://www.amazon.com/Masters-Disaster-Commandments-Damage-Control/dp/113727896X)" - by Christopher Lehane
 
 ### Currently reading
 
