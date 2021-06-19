@@ -1,8 +1,12 @@
 <article class="book-card">
   <div class="cover">
+    {{ if ne .Params.status "queued" }}
     <a href="{{ .Permalink }}">
       <img src="{{ .Params.cover }}" />
     </a>
+    {{ else }}
+      <img src="{{ .Params.cover }}" />
+    {{ end }}
   </div>
   <div class="description">
     {{ if ne .Params.status "queued" }}

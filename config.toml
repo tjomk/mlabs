@@ -24,7 +24,7 @@ theme = "hugo-lithium-theme"
 
   [[menu.main]]
     name = "Reading"
-    url = "/reading/"
+    url = "/book/"
     weight = 3
 
   [[menu.main]]

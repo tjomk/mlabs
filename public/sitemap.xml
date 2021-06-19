@@ -2,10 +2,70 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://rtjom.com/blog/</loc>
+    <lastmod>2021-06-19T09:37:15+03:00</lastmod>
+  </url><url>
+    <loc>https://rtjom.com/blog/2021/06/how-i-consume-books/</loc>
+    <lastmod>2021-06-19T09:37:15+03:00</lastmod>
+  </url><url>
+    <loc>https://rtjom.com/</loc>
+    <lastmod>2021-06-19T09:37:15+03:00</lastmod>
+  </url><url>
+    <loc>https://rtjom.com/book/letters-to-serena/</loc>
+    <lastmod>2021-06-18T21:22:00+03:00</lastmod>
+  </url><url>
+    <loc>https://rtjom.com/book/living-my-life/</loc>
+    <lastmod>2021-06-18T21:19:37+03:00</lastmod>
+  </url><url>
+    <loc>https://rtjom.com/book/days-of-war-nights-of-love/</loc>
+    <lastmod>2021-06-18T21:15:50+03:00</lastmod>
+  </url><url>
+    <loc>https://rtjom.com/book/momo/</loc>
+    <lastmod>2021-06-18T21:11:45+03:00</lastmod>
+  </url><url>
+    <loc>https://rtjom.com/book/letters-to-a-young-poet/</loc>
+    <lastmod>2021-06-18T20:53:56+03:00</lastmod>
+  </url><url>
+    <loc>https://rtjom.com/book/six-easy-pieces/</loc>
+    <lastmod>2021-06-18T20:52:44+03:00</lastmod>
+  </url><url>
+    <loc>https://rtjom.com/book/thing-explainer/</loc>
+    <lastmod>2021-06-18T20:49:15+03:00</lastmod>
+  </url><url>
+    <loc>https://rtjom.com/book/thinking-physics/</loc>
+    <lastmod>2021-06-18T20:47:14+03:00</lastmod>
+  </url><url>
+    <loc>https://rtjom.com/book/the-story-of-philosophy/</loc>
+    <lastmod>2021-06-18T20:46:02+03:00</lastmod>
+  </url><url>
+    <loc>https://rtjom.com/book/masters-of-disaster-the-ten-commandments-of-damage-control/</loc>
+    <lastmod>2021-06-18T20:41:14+03:00</lastmod>
+  </url><url>
+    <loc>https://rtjom.com/book/the-beginning-of-infinity/</loc>
+    <lastmod>2021-06-18T20:38:43+03:00</lastmod>
+  </url><url>
+    <loc>https://rtjom.com/book/the-fabric-of-reality/</loc>
+    <lastmod>2021-06-18T20:35:40+03:00</lastmod>
+  </url><url>
+    <loc>https://rtjom.com/book/genome-the-autobiography-of-a-species-in-23-chapters/</loc>
+    <lastmod>2021-06-18T16:44:01+03:00</lastmod>
+  </url><url>
+    <loc>https://rtjom.com/book/the-greatest-story-ever-told-so-far/</loc>
+    <lastmod>2021-06-17T13:53:54+03:00</lastmod>
+  </url><url>
+    <loc>https://rtjom.com/tags/mtb/</loc>
+    <lastmod>2021-05-31T10:11:35+03:00</lastmod>
+  </url><url>
+    <loc>https://rtjom.com/tags/summary/</loc>
+    <lastmod>2021-05-31T10:11:35+03:00</lastmod>
+  </url><url>
     <loc>https://rtjom.com/blog/2021/05/summary-may-2021/</loc>
     <lastmod>2021-05-31T10:11:35+03:00</lastmod>
   </url><url>
-    <loc>https://rtjom.com/</loc>
+    <loc>https://rtjom.com/tags/</loc>
+    <lastmod>2021-05-31T10:11:35+03:00</lastmod>
+  </url><url>
+    <loc>https://rtjom.com/tags/travel/</loc>
     <lastmod>2021-05-31T10:11:35+03:00</lastmod>
   </url><url>
     <loc>https://rtjom.com/blog/2021/04/summary-april-2021/</loc>
@@ -17,6 +77,9 @@
     <loc>https://rtjom.com/blog/2021/03/long-project-tracking/</loc>
     <lastmod>2021-03-08T10:17:58+02:00</lastmod>
   </url><url>
+    <loc>https://rtjom.com/tags/personal-experience/</loc>
+    <lastmod>2021-03-08T10:17:58+02:00</lastmod>
+  </url><url>
     <loc>https://rtjom.com/blog/2021/03/summary-march-2021/</loc>
     <lastmod>2021-03-08T10:14:11+02:00</lastmod>
   </url><url>
@@ -26,11 +89,26 @@
     <loc>https://rtjom.com/blog/2021/02/crossing-the-rubicon/</loc>
     <lastmod>2021-02-18T21:01:51+02:00</lastmod>
   </url><url>
+    <loc>https://rtjom.com/tags/quotes/</loc>
+    <lastmod>2021-02-18T21:01:51+02:00</lastmod>
+  </url><url>
+    <loc>https://rtjom.com/tags/thoughts/</loc>
+    <lastmod>2021-02-18T21:01:51+02:00</lastmod>
+  </url><url>
     <loc>https://rtjom.com/blog/2021/02/summary-january-2021/</loc>
     <lastmod>2021-02-17T07:58:44+02:00</lastmod>
   </url><url>
     <loc>https://rtjom.com/blog/2021/01/two-launches-on-producthunt/</loc>
     <lastmod>2021-01-19T12:31:31+02:00</lastmod>
+  </url><url>
+    <loc>https://rtjom.com/tags/algorithms/</loc>
+    <lastmod>2021-01-10T20:24:51+02:00</lastmod>
+  </url><url>
+    <loc>https://rtjom.com/tags/essay/</loc>
+    <lastmod>2021-01-10T20:24:51+02:00</lastmod>
+  </url><url>
+    <loc>https://rtjom.com/tags/manipulation/</loc>
+    <lastmod>2021-01-10T20:24:51+02:00</lastmod>
   </url><url>
     <loc>https://rtjom.com/blog/2021/01/on-algorithms-and-manipulation/</loc>
     <lastmod>2021-01-10T20:24:51+02:00</lastmod>
@@ -71,6 +149,12 @@
     <loc>https://rtjom.com/blog/2020/03/a-walk-around-pelgulinn/</loc>
     <lastmod>2020-03-15T22:34:22+02:00</lastmod>
   </url><url>
+    <loc>https://rtjom.com/tags/city-walks/</loc>
+    <lastmod>2020-03-15T22:34:22+02:00</lastmod>
+  </url><url>
+    <loc>https://rtjom.com/page/</loc>
+    <lastmod>2020-02-23T20:02:21+02:00</lastmod>
+  </url><url>
     <loc>https://rtjom.com/reading/</loc>
     <lastmod>2020-02-23T20:02:21+02:00</lastmod>
   </url><url>
@@ -85,6 +169,12 @@
   </url><url>
     <loc>https://rtjom.com/blog/2018/10/startup-perks-and-benefits/</loc>
     <lastmod>2018-10-23T10:39:12+02:00</lastmod>
+  </url><url>
+    <loc>https://rtjom.com/tags/startups/</loc>
+    <lastmod>2018-10-23T10:39:12+02:00</lastmod>
+  </url><url>
+    <loc>https://rtjom.com/book/</loc>
+    <lastmod>2017-03-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rtjom.com/blog/2016/10/using-wtforms-with-selectfield-and-fieldlist/</loc>
     <lastmod>2016-10-29T15:30:45+02:00</lastmod>
