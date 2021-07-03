@@ -61,7 +61,7 @@ interesting paragraphs and write down the page number so that I can return to it
 
 At the end of each chapter I write a short paragraph trying to describe what it was all about.
 
-## Fiction vs non-fiction
+## Retaining the knowledge
 
 Most of the books I read are non-fiction. These are science books, biographies, diaries, self-improvement, and business
 books. Occasionally a novel or a science-fiction book finds its way into my reading queue. It's hard to take notes of such
@@ -69,3 +69,20 @@ stories because of the dialogues and the way the story flows. But I regret not d
 digest of each chapter. Even though there are less actionable advice that one can extract from, say, Catch-22, but
 some of the quotes and paragraphs are just so good that losing them to your memory is just pity. After all, whenever
 I read a book to my daughter, we always discuss every chapter together after she's done summarizing it to me.
+
+### Educational books
+
+When we study in school, university, or taking a course, there's always a homework assignment that helps you understand
+better, or cement in your memory, the topic you have previously covered. But I (or maybe we) rarely do that while reading
+an educational book. In fact, most of the business or self-improvement books don't have an assignment section at the
+end of each chapter. I found a solution. Come up with the homework yourself.
+
+One of the books I am reading right now is called [Human Hacking](/book/human-hacking/) which talks about human
+psychology, persuasion, and how to use human behaviour in the security domain. Given how practical this knowledge is,
+theory just complements it and explains the concepts better. But without practicing all of the theory would disappear.
+What's the point in learning public speaking from books if you never practice? As a result while I am reading the book
+I also come up with the tasks I can do to apply the theory. These range from starting a conversation on the street with
+a complete stranger to complimenting a person behind the cash register, to building a rapport with the taxi driver.
+
+The same homework concept can be applied to any educational book or topic you're interested in, be it science, business,
+or other type of self development.

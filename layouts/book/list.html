@@ -4,7 +4,9 @@
 
   <div class="books">
     <h2>Currently reading</h2>
-    {{ range $index, $page := where (where .Site.RegularPages "Section" "book") "Params.status" "reading" }}
+    {{ $reading := where (where .Site.RegularPages "Section" "book") "Params.status" "reading" }}
+    {{ $readingLen := (len $reading) }}
+    {{ range $index, $page := $reading }}
       {{ $i := add $index 1 }}
       {{ if modBool $index 2 }}
       <div class="row">
@@ -12,13 +14,15 @@
         <div class="column">
           {{ partial "books/card.html" . }}
         </div>
-      {{ if modBool $i 2 }}
+      {{ if or (modBool $i 2) (eq $i $readingLen) }}
       </div>
       {{ end }}
     {{ end }}
 
     <h2>Finished</h2>
-    {{ range $index, $page := where (where .Site.RegularPages "Section" "book") "Params.status" "finished" }}
+    {{ $finished :=  where (where .Site.RegularPages "Section" "book") "Params.status" "finished" }}
+    {{ $finishedLen := (len $finished) }}
+    {{ range $index, $page := $finished }}
       {{ $i := add $index 1 }}
       {{ if modBool $index 2 }}
       <div class="row">
@@ -26,13 +30,15 @@
         <div class="column">
           {{ partial "books/card.html" . }}
         </div>
-      {{ if modBool $i 2 }}
+      {{ if or (modBool $i 2) (eq $i $finishedLen) }}
       </div>
       {{ end }}
     {{ end }}
 
     <h2>Queued</h2>
-    {{ range $index, $page := where (where .Site.RegularPages "Section" "book") "Params.status" "queued" }}
+    {{ $queued := where (where .Site.RegularPages "Section" "book") "Params.status" "queued" }}
+    {{ $queuedLen := (len $queued) }}
+    {{ range $index, $page := $queued }}
       {{ $i := add $index 1 }}
       {{ if modBool $index 2 }}
       <div class="row">
@@ -40,7 +46,7 @@
         <div class="column">
           {{ partial "books/card.html" . }}
         </div>
-      {{ if modBool $i 2 }}
+      {{ if or (modBool $i 2) (eq $i $queuedLen) }}
       </div>
       {{ end }}
     {{ end }}

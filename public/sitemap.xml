@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://rtjom.com/book/human-hacking/</loc>
+    <lastmod>2021-06-23T15:23:50+03:00</lastmod>
+  </url><url>
+    <loc>https://rtjom.com/</loc>
+    <lastmod>2021-06-23T15:23:50+03:00</lastmod>
+  </url><url>
     <loc>https://rtjom.com/blog/</loc>
     <lastmod>2021-06-19T09:37:15+03:00</lastmod>
   </url><url>
     <loc>https://rtjom.com/blog/2021/06/how-i-consume-books/</loc>
-    <lastmod>2021-06-19T09:37:15+03:00</lastmod>
-  </url><url>
-    <loc>https://rtjom.com/</loc>
     <lastmod>2021-06-19T09:37:15+03:00</lastmod>
   </url><url>
     <loc>https://rtjom.com/book/letters-to-serena/</loc>
