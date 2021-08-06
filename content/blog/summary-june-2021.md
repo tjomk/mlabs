@@ -58,4 +58,6 @@ great way to learn about all the mistakes I make while on stage. Things like ove
 except the camera, never-ending "uhhmmmmm" and "eeeehm", and other typical mistakes people make.
 
 Unlike this blog, the video is in Russian and is meant more for myself rather than the wider audience which makes it
-extremely boring (like these posts) :-) [Here it is](https://youtu.be/v2X1odyTcQI)
+extremely boring (like these posts) :-)
+
+{{< youtube v2X1odyTcQI >}}
