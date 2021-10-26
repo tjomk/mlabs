@@ -1,11 +1,11 @@
 ---
-title: "Genome the Autobiography of a Species in 23 Chapters"
+title: "Genome: The Autobiography of a Species in 23 Chapters"
 date: 2021-06-18T16:44:01+03:00
-author: Jack London
+author: Matt Ridley
 fiction: false
-genres: [productivity]
+genres: [popular science]
 rating: 5
-link: https://en.wikipedia.org
+link: https://en.wikipedia.org/wiki/Genome_(book)
 cover: /images/books/genome-the-autobiography-of-a-species.jpg
 status: reading
 gist:
@@ -14,30 +14,29 @@ draft: false
 
 ## The book in 3 sentences
 
-1. This is a book in short
-2. Highlight number two
-3. Highlight number three
+1. TODO
+2. TODO
+3. TODO
 
 ## Impressions
 
-Was it good? Was it bad? What did I feel? What I liked
+TODO
 
 ### How I discovered it?
 
-Via reference from another book
+I listened to an [episode](https://nav.al/matt-ridley) of Naval's podcast where
+he discussed innovation with Matt Ridley. From their conversation I learned about
+another book of Matt about the genome which excited me and prompted to read it.
 
 ## How it changed me
 
-- it made me more anxious
-- it made me happier
+- TODO
+- TODO
 
 ## My top quotes
 
-> Quote 1
-> continuing
-
-> This is quote number 2
+> TODO
 
 ## Summary + Notes
 
-this is a note
+TODO

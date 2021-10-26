@@ -5,3 +5,6 @@ draft: true
 ---
 - wiping facebook clean
 - travelling to Italy
+- audiobook: dune
+- e-book: wildcrafted fermentation
+- e-book: clean architecture
