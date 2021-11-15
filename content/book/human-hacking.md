@@ -7,7 +7,7 @@ genres: [negotiation, communication, psychology, security]
 rating: 5
 link: https://en.wikipedia.org
 cover: /images/books/human-hacking.jpg
-status: reading
+status: queued
 gist:
 draft: false
 ---
