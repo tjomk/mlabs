@@ -33,7 +33,7 @@ theme = "hugo-lithium-theme"
     weight = 4
 
 [params]
-    mainSections = ["blog"]
+    mainSections = ["blog", "book"]
 
     description = ""
 
