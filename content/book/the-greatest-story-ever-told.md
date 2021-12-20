@@ -7,7 +7,7 @@ genres: [science]
 rating: 5
 link: https://en.wikipedia.org/wiki/The_Greatest_Story_Ever_Told%E2%80%94So_Far
 cover: /images/books/the-greatest-story-ever-told-so-far.jpg
-status: reading
+status: finished
 gist:
 draft: false
 ---
@@ -36,4 +36,3 @@ In my [August 2021](https://rtjom.com/blog/2021/08/summary-august-2021/) update 
 excited by the way physicists can come up with hypotheses on our Universe and use maths to describe them. A multi-dimensional
 Universe? Here you go. A 2D hologram on the verge of a black hole? Maths seem to work out. This is realization made
 me as excited as seeing the launch of SpaceX's Falcon Heavy.
-
