@@ -1,6 +1,6 @@
 ---
 title: "The Greatest Story Ever Told — So Far"
-date: 2021-06-17T13:53:54+03:00
+date: 2021-12-20T13:53:54+03:00
 author: Lawrence M. Krauss
 fiction: false
 genres: [science]
