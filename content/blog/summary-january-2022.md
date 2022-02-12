@@ -65,7 +65,7 @@ that on few occasions this has already been extremely helpful.
 
 ## Security hackathon
 
-There isn't much to talk about it here as I have co-authored a blog post on [Salv's blog](https://salv.com/blog/), with
+There isn't much to talk about it here as I have co-authored a blog post on [Salv's blog](https://salv.com/salv-security-hackathon/), with
 the help of my colleagues I organised a one-day security hackathon. It consisted of 2 parts:
 
 - OWASP Top 10: theory and practice

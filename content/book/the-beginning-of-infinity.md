@@ -7,7 +7,7 @@ genres: [science]
 rating: 5
 link: https://en.wikipedia.org
 cover: /images/books/the-beginning-of-infinity.jpg
-status: queued
+status: reading
 gist:
 draft: false
 ---
