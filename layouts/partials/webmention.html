@@ -1,0 +1,17 @@
+{{ $url := printf "%s" .Permalink }}
+<div class="webmentions">
+  <details>
+    <summary class="text-center padding-bottom-04rem">IndieWeb mentions</summary>
+    <p class="text-center">You can mention this URL on any website that supports <a href="http://indieweb.org/webmention">WebMentions</a>. If you have <a href="https://indieweb.org/response">responded</a> to my post, share the URL in the form below:</p>
+    <div class="manual-webmention text-center">
+      <form id="manual-webmention" action="https://webmention.io/rtjom.com/webmention" method="post">
+        <input type="url" name="source" value="" />
+        <input type="hidden" name="target" value="{{ $url }}" />
+        <input type="submit" name="submit" value="Send" />
+      </form>
+    </div>
+    <div id="webmentions">
+      <noscript>This site uses client-side JavaScript to render the webmentions. This is not essential part of it, so you should be fine without enabling it.</noscript>
+    </div>
+  </details>
+</div>

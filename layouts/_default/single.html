@@ -25,9 +25,9 @@
       
       {{ .Content }}
     </div>
-  </article>
 
-  {{ template "_internal/disqus.html" . }}
+    {{ partial "webmention.html" . }}
+  </article>
 
 </main>
 
