@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://rtjom.com/blog/</loc>
-    <lastmod>2022-04-18T21:45:42+03:00</lastmod>
-  </url><url>
-    <loc>https://rtjom.com/blog/2022/04/summary-march-2022/</loc>
-    <lastmod>2022-04-18T21:45:42+03:00</lastmod>
+    <loc>https://rtjom.com/book/black-water-lilies/</loc>
+    <lastmod>2022-05-11T22:15:38+03:00</lastmod>
   </url><url>
     <loc>https://rtjom.com/</loc>
+    <lastmod>2022-05-11T22:15:38+03:00</lastmod>
+  </url><url>
+    <loc>https://rtjom.com/blog/</loc>
+    <lastmod>2022-05-11T21:51:48+03:00</lastmod>
+  </url><url>
+    <loc>https://rtjom.com/blog/2022/05/summary-april-2022/</loc>
+    <lastmod>2022-05-11T21:51:48+03:00</lastmod>
+  </url><url>
+    <loc>https://rtjom.com/blog/2022/04/summary-march-2022/</loc>
     <lastmod>2022-04-18T21:45:42+03:00</lastmod>
   </url><url>
     <loc>https://rtjom.com/book/the-time-machine/</loc>

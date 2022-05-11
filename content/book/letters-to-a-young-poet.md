@@ -7,7 +7,7 @@ genres: [life]
 rating: 5
 link: https://en.wikipedia.org
 cover: /images/books/letters-to-a-young-poet.jpg
-status: queued
+status: finished
 gist: 
 draft: false
 ---
@@ -16,15 +16,18 @@ young man who was about to go to the army.
 
 The whole collection is available [online](https://www.carrothers.com/rilke_main.htm).
 
+I listened to an audio version of this book, and after finishing it its contents quickly perished. Yet, I enjoyed
+listening it without remembering a thing. I bought a paper version of this book and gifted it to a friend only to
+realise that I want to re-read it myself on paper. I want to go over it slowly digesting every letter. So I am leaving
+these TODOs in the hope to return here again.
+
 ## The book in 3 sentences
 
-1. This is a book in short
-2. Highlight number two
-3. Highlight number three
+TODO
 
 ## Impressions
 
-Was it good? Was it bad? What did I feel? What I liked
+TODO
 
 ### How I discovered it?
 
@@ -37,18 +40,6 @@ Several years later that same person exposed the accounts of a Cayman Bank along
 [description](https://github.com/Alekseyyy/phineas-philes/blob/master/cayman-english.md) of how the hack was conducted.
 Inside the document were the references to several of the books that are in this queue.
 
-## How it changed me
-
-- it made me more anxious
-- it made me happier
-
-## My top quotes
-
-> Quote 1
-> continuing
-
-> This is quote number 2
-
 ## Summary + Notes
 
-this is a note
+TODO
