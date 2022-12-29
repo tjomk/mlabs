@@ -3,6 +3,8 @@ title: "Sourdough Starter Using Estonian Flour"
 date: 2022-05-26T21:54:47+03:00
 draft: false
 ---
+*Updated: 29 December, 2022*
+
 I've been baking sourdough bread on and off for almost 7 years now. And during those years there were so many failed
 attempts that made me rage quit the whole process and throw my starter in the bin, only to calm down few months later
 and start from scratch. I tried to be systematical and change ingredients and processes. I used different flours:
@@ -71,6 +73,24 @@ whole grain and all-purpose flour, or slowly reduce the amount of whole-grain an
 did the latter is that I don't use use whole grain that often during baking, and so it eventually expires. Or maybe
 I should start.
 
+### Keeping the starter alive
+
+Whenever I watch YouTube videos with bakers or read their blogs, most of the times its their profession, or at least
+an everyday hobby. As a result they keep a large amount of starter at hand, and feed it usually twice a day. Yes,
+you can find articles on how to keep it in the fridge for weekly feedings, or even freeze it. However very few 
+resources mention that you can keep a pretty small amount of starter thus reducing waste and the amount of flour you
+need for keeping it alive.
+
+The ratio of starter, water, and flour I wound up using is 1:2:3 with 10g of starter, 20g of water, and 30g of flour
+mixture. This is enough to keep it healthy and active throughout 24 hours between feedings. This also means throwing
+away just 50g of fermented flour. Some blogs I've seen use 1-5g of starter which makes the whole mixture several times
+smaller. I have yet to try this. So far 50g of product works for me.
+
+<div class="my-slider3">
+  <div><img src="/images/bread/sourdough-starter.jpg" alt="Sourdough starter" /></div>
+</div>
+
+
 <script type="text/javascript" src="/js/tiny-slider-2.9.2.min.js"></script>
 <script type="application/javascript">
 var slider = tns({
@@ -83,6 +103,14 @@ var slider = tns({
   });
 var slider2 = tns({
     container: '.my-slider2',
+    autoplay: false,
+    navPosition: 'bottom',
+    controlsPosition: 'center',
+    controlsText: ['&#10094;', '&#10095;'],
+    center: true,
+  });
+var slider3 = tns({
+    container: '.my-slider3',
     autoplay: false,
     navPosition: 'bottom',
     controlsPosition: 'center',
